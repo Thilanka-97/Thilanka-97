@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thilanka Madushan</h1>
-<h3 align="center">A Tech enthusiast from Sri Lanka with 3+ years in Full Stack development. Passionate about building efficient web applications and continuous learning.</h3>
+<h3 align="center">A Tech enthusiast from Sri Lanka with 4+ years in Full Stack development. Passionate about building efficient web applications and continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilanka-97&label=Profile%20views&color=0e75b6&style=flat" alt="thilanka-97" /> </p>
 
